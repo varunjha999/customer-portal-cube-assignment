@@ -1,5 +1,4 @@
-#Develop a single-page application in React and Typescript which shows a customer details
-#portal with the following specifications:
+#Develop a single-page application in React and Typescript which shows a customer details portal with the following specifications:
 1. The portal has a list of customers on the left side and upon clicking a card on the left
 the details of the customer are shown on the right side.
 2. The customer list on the left can contain as many as 1000 entries.
